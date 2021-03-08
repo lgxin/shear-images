@@ -1,0 +1,21 @@
+{
+  "name": "shear-images",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "nuxt": "^2.14.12",
+    "node-sass": "^4.0.0",
+    "scss-loader": "0.0.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "sass-loader": "^7.3.1"
+  }
+}
